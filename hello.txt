@@ -11,4 +11,4 @@ hello GIt!  hello liuyan!
 hello GIt!  hello liuyan!
 hello GIt!  hello liuyan!
 hello GIt!  hello liuyan!
-hello GIt!  hello liuyan!
+hello GIt!  hello liuyan! hot-fix clash test
